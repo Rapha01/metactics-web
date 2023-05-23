@@ -1,0 +1,83 @@
+.roasterInput 
+{
+    background: transparent;
+	border:transparent;
+	color:white;
+	
+}
+.roasterInput:disabled {
+    background: transparent;
+}
+
+
+#roasterLi
+{
+   background: transparent;
+	border:transparent;
+	color:white;
+}
+
+#tournamentLabel
+{
+background-color: none;
+  background-image: -webkit-linear-gradient(#020202, #101112 40%, #191b1d);
+  background-image: -o-linear-gradient(#020202, #101112 40%, #191b1d);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#020202), color-stop(40%, #101112), to(#191b1d));
+  background-image: linear-gradient(#020202, #101112 40%, #191b1d);
+  background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff020202', endColorstr='#ff191b1d', GradientType=0);
+  -webkit-filter: none;
+          filter: none;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+
+}
+
+
+
+#supportLabel
+{
+
+
+background-color: none;
+  background-image: -webkit-linear-gradient(#020202, #101112 40%, #191b1d);
+  background-image: -o-linear-gradient(#020202, #101112 40%, #191b1d);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#020202), color-stop(40%, #101112), to(#191b1d));
+  background-image: linear-gradient(#020202, #101112 40%, #191b1d);
+  background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff020202', endColorstr='#ff191b1d', GradientType=0);
+  -webkit-filter: none;
+          filter: none;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+
+}
+
+
+
+/**
+#showParticipantsDropdown
+{
+min-width: 420px;
+}
+
+.showTeamNameDropdownLi 
+{
+text-align:center;
+  display: block;
+  margin: 2% 0;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.42857143;
+  color: #c8c8c8;
+  white-space: nowrap;
+}
+.showTeamNameDropdownLi > a:hover,
+.showTeamNameDropdownLi > a:focus {
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #272b30;
+}
+.showTeamNameDropdownLi > a
+ {
+     line-height: 20px;
+     color: #cccccc;
+  }*/
